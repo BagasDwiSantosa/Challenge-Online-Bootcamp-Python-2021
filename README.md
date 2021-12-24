@@ -1,2 +1,2 @@
-# BOOTCAMP HER-1
+# SEMESTER 1 HORE
 Program python sederhana pake banget. 
